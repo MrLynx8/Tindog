@@ -144,6 +144,17 @@ padding: 0px 10px;
 }
   .head1{
     text-align: center;
+    font-size: 2rem;
+
+  }
+  . head2{
+    font-size: 1.5rem;
+    }
+  . head3{
+    font-size: 1rem;
+    }
+  body{
+    font-size:12px;
     }
   .title-image{
     position: static;
